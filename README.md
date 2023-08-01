@@ -1,7 +1,9 @@
-# *Html - Odin-Recipes*
+# Html - Odin-Recipes
 
 Learning how to write a basic HTML page from scratch
-Thing to Learn are -
-  -setting up HTML Boilerplate
-  -HTML Elements
-  -HTML Markup and tags
+
+
+Live site: https://chrisdesigns96.github.io/odin-recipes/
+
+
+
