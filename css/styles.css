@@ -94,7 +94,7 @@ ol li {
 
 
 img {
-    padding: 40px;
+    padding: 20px;
     max-width: 500px;
     height: auto;
 }
@@ -110,7 +110,7 @@ img {
 }
 
 .process-box {
-    margin-top: 70px 50px;
+    margin-top: 60px 50px;
     width: 500px;
     /* background-color: yellow; */
     display: inline-block;
