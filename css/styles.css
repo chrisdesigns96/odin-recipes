@@ -14,11 +14,12 @@ html {
 }
 
 body {
-    margin: 30px auto;
+    margin: 0 auto;
+
     
 }
 h1 {
-    font-size: 40px;
+    font-size: 50px;
     font-weight: 700;
     margin:  15px 10px;
     color: green;
@@ -72,6 +73,7 @@ h3  {
 
 
 p {
+    font-size: 15px;
     max-width: 650px;
     margin: 10px 5px;
     padding: 10px;
@@ -80,7 +82,7 @@ p {
 #ingredients-list {
     display: block ;
     font-style: italic;
-    color: green;
+    color: rgb(9, 134, 36);
 }
 ol {
     margin: 0 0 30px 35px;
@@ -90,28 +92,37 @@ ol li {
     padding: 5px;
 }
 
+
+img {
+    padding: 40px;
+    max-width: 500px;
+    height: auto;
+}
+
+
 .image-box {
-    background-color: red;
+
+    margin-top: 20px;
+    /* background-color: red; */
     width: 500px;
-    height: 700px;
     display: inline-block;
+    vertical-align: top;
 }
 
 .process-box {
-    display: inline-block;
-}
-
-.container{
+    margin-top: 70px 50px;
     width: 500px;
-    margin: 20px;
-    background-color: blue;
+    /* background-color: yellow; */
+    display: inline-block;
     vertical-align: top;
-   display: inline-block;
 }
 
-.ingredient {
-    color: #fff;
-    margin-left: 550px;
-    margin-top: -500px;
-    vertical-align: top;
+.process-box .container{
+    width: 400px;
+    margin: 10px;
+    padding: 5px;
+    color: #000000;
+    /* background-color: rgb(8, 8, 71); */
+    
+
 }
